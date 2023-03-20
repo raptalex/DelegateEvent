@@ -1,0 +1,15 @@
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.exe
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.deps.json
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.runtimeconfig.json
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.dll
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\bin\Debug\net6.0\DelegateEvent.pdb
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.csproj.AssemblyReference.cache
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.AssemblyInfoInputs.cache
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.AssemblyInfo.cs
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.csproj.CoreCompileInputs.cache
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.dll
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\refint\DelegateEvent.dll
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.pdb
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\DelegateEvent.genruntimeconfig.cache
+C:\Users\arapt\Desktop\programming\misc\DelegateEvent\DelegateEvent\obj\Debug\net6.0\ref\DelegateEvent.dll
